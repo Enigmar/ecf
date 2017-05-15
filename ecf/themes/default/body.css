@@ -42,6 +42,14 @@ body {
 .dropdown-menu {
 	background-color: rgba(36, 66, 95, 1) !important;
 	color: rgba(255, 255, 255, 1) !important;
+	border-radius: 0px !important;
+}
+.dropdown-item {
+	color: rgba(255, 255, 255, 1) !important;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: rgb(70, 120, 167) !important;
 }
 
 .profilname {
