@@ -47,7 +47,8 @@ body {
 .dropdown-item {
 	color: rgba(255, 255, 255, 1) !important;
 }
-.dropdown-item:hover {
+
+ul.nav a:hover {
 	color: rgba(36, 66, 95, 1) !important;
 }
 
