@@ -34,6 +34,9 @@ body {
 .navbar-brand {
 	color: #ffffff !important;
 }
+.navbar {
+	    padding: .0rem 1rem;
+}
 
 .nav-item {
 	background-color: rgba(43, 79, 113, 1);
