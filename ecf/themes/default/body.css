@@ -48,7 +48,7 @@ body {
 .nav-item {
 	background-color: rgba(43, 79, 113, 1);
 }
-.nav-item:focus, .nav-item:hover {
+ul.nav a:hover {
 	color: rgba(36, 66, 95, 1) !important;
 }
 
