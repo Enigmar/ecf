@@ -38,6 +38,9 @@ body {
 .nav-item {
 	background-color: rgba(43, 79, 113, 1);
 }
+.nav-item:focus, .nav-item:hover {
+	color: rgba(36, 66, 95, 1) !important;
+}
 
 .dropdown-menu {
 	background-color: rgba(36, 66, 95, 1) !important;
@@ -48,9 +51,6 @@ body {
 	color: rgba(255, 255, 255, 1) !important;
 }
 
-ul.nav a:hover {
-	color: rgba(36, 66, 95, 1) !important;
-}
 
 .dropdown-item:focus, .dropdown-item:hover {
     background-color: rgb(70, 120, 167) !important;
