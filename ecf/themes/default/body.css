@@ -35,6 +35,10 @@ body {
 	color: #ffffff !important;
 }
 
+.nav-item {
+	background-color: rgba(43, 79, 113, 1);
+}
+
 .profilname {
 	color: ##292b2c !important;
 	font-size: 1.2rem;
