@@ -47,6 +47,9 @@ body {
 .dropdown-item {
 	color: rgba(255, 255, 255, 1) !important;
 }
+.dropdown-item:hover {
+	color: rgba(36, 66, 95, 1) !important;
+}
 
 .dropdown-item:focus, .dropdown-item:hover {
     background-color: rgb(70, 120, 167) !important;
