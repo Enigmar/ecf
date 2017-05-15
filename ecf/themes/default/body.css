@@ -39,6 +39,11 @@ body {
 	background-color: rgba(43, 79, 113, 1);
 }
 
+.dropdown-menu {
+	background-color: rgba(36, 66, 95, 1) !important;
+	color: rgba(255, 255, 255, 1) !important;
+}
+
 .profilname {
 	color: ##292b2c !important;
 	font-size: 1.2rem;
