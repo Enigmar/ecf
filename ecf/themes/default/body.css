@@ -36,6 +36,13 @@ body {
 }
 .navbar {
 	    padding: .0rem 1rem;
+	    min-height: 3.5rem;
+}
+.nav-link {
+    padding: 1em 1em !important;
+}
+.navbar-collapse {
+	height: 3.4rem !important;
 }
 
 .nav-item {
